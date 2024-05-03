@@ -1,0 +1,18 @@
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\bin\Debug\net6.0-windows\LEROY CARLIN.exe
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\bin\Debug\net6.0-windows\LEROY CARLIN.deps.json
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\bin\Debug\net6.0-windows\LEROY CARLIN.runtimeconfig.json
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\bin\Debug\net6.0-windows\LEROY CARLIN.dll
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\bin\Debug\net6.0-windows\LEROY CARLIN.pdb
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\obj\Debug\net6.0-windows\LEROY_CARLIN.Bienvenida.resources
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\obj\Debug\net6.0-windows\LEROY_CARLIN.Clientes.resources
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\obj\Debug\net6.0-windows\LEROY_CARLIN.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\obj\Debug\net6.0-windows\LEROY CARLIN.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\obj\Debug\net6.0-windows\LEROY CARLIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\obj\Debug\net6.0-windows\LEROY CARLIN.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\obj\Debug\net6.0-windows\LEROY CARLIN.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\obj\Debug\net6.0-windows\LEROY CARLIN.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\obj\Debug\net6.0-windows\LEROY CARLIN.dll
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\obj\Debug\net6.0-windows\refint\LEROY CARLIN.dll
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\obj\Debug\net6.0-windows\LEROY CARLIN.pdb
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\obj\Debug\net6.0-windows\LEROY CARLIN.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\PROYECTO PROGRAMACION\LEROY CARLIN\obj\Debug\net6.0-windows\ref\LEROY CARLIN.dll
