@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\csevera53\\ProyectoProgramacion\\LEROY CARLIN\\LEROY CARLIN.csproj": {}
+    "C:\\Users\\Usuario\\Source\\Repos\\ProyectoProgramacion\\LEROY CARLIN\\LEROY CARLIN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\csevera53\\ProyectoProgramacion\\LEROY CARLIN\\LEROY CARLIN.csproj": {
+    "C:\\Users\\Usuario\\Source\\Repos\\ProyectoProgramacion\\LEROY CARLIN\\LEROY CARLIN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\csevera53\\ProyectoProgramacion\\LEROY CARLIN\\LEROY CARLIN.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\ProyectoProgramacion\\LEROY CARLIN\\LEROY CARLIN.csproj",
         "projectName": "LEROY CARLIN",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\csevera53\\ProyectoProgramacion\\LEROY CARLIN\\LEROY CARLIN.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\ProyectoProgramacion\\LEROY CARLIN\\LEROY CARLIN.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\csevera53\\ProyectoProgramacion\\LEROY CARLIN\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\ProyectoProgramacion\\LEROY CARLIN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
